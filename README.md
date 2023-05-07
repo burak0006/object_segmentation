@@ -22,6 +22,7 @@ Execute following commands to install libraries:
 ```sh
 pip install python-magic
 sudo apt-get install libmagic1
+```
 
 ## Results
 
